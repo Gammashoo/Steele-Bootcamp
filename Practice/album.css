@@ -1,0 +1,33 @@
+div {
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 250px;
+    padding-right:250px;
+    font-family:Helvetica;
+    
+    
+}
+h1, h2 {
+    letter-spacing: 5px;
+}
+img {
+    width: 400px;
+    height:auto;
+}
+
+p {
+    padding:10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    font-size: 150;
+    font-family:Helvetica;
+    letter-spacing: 1px;
+    background-color: rgb(171, 233, 192);
+    
+}
+
+body {
+    background-color: #ebe2e7;
+}

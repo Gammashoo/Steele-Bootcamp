@@ -1,0 +1,2 @@
+clicks, drags, drops, hovers, scrolls, from/submission, key presses, focus/blur, mouse wheel,
+double click, copying, pasting, audio start, screen resize, printing

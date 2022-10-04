@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 75px;
+    letter-spacing: 20px;
+}
+
+.button {
+    color:rgb(16, 136, 136);
+    letter-spacing: 1px;
+    background-color:rgb(235, 243, 166) ;
+    text-decoration: none;
+    padding: 8px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black ;
+    border-left: 1px solid black;
+    font-weight: 600;
+    font-family: helvetica;
+}
+
+.content {
+    padding-left: 25%;
+    padding-right: 25%;
+    font-family: helvetica;
+    
+}
+
+footer {
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top:80px;
+    text-align: center;
+
+}
+
+.title {
+    font-family: helvetica;
+}
+
+.band {
+    text-align: center;
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 40px;
+}

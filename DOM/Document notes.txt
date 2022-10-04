@@ -1,0 +1,20 @@
+document.querySelector()
+document.querySelectorAll()
+
+
+document.classList()
+
+
+
+
+document.removeChild() - Removes child element of selected element.
+
+document.remove() - Removes element from the DOM.
+
+Example - Removing an image
+const img = document.querySelector('img')
+img.remove()
+
+old way & reliable 
+img.parentElement/removeChild(img)
+
